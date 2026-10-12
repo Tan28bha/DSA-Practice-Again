@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
