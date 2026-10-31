@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Math
@@ -42,8 +43,10 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
