@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
@@ -43,11 +44,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
