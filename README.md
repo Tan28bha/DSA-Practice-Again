@@ -12,6 +12,7 @@
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -54,8 +55,13 @@
 | [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0260-single-number-iii) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
