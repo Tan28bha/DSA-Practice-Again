@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -27,10 +28,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -64,4 +67,20 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
