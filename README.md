@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0260-single-number-iii) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -96,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
