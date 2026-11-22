@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0485-max-consecutive-ones) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -58,6 +60,7 @@
 | [0015-3sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bit Manipulation
 |  |
@@ -70,6 +73,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -82,5 +86,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
