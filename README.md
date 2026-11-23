@@ -31,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0169-majority-element) |
 | [0523-continuous-subarray-sum](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0054-spiral-matrix) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tan28bha/https-github.com-Tan28bha-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
